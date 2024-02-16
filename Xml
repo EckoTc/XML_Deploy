@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <root>
-    <e1 1="E1V1" 2="E1V2" />
-    <e2 1="E2V1" 2="E2V2" />
-    <e3 1="E3V1" 2="E3V2" />
+    <e1 a1="E1V1" a2="E1V2" />
+    <e2 a1="E2V1" a2="E2V2" />
+    <e3 a1="E3V1" a2="E3V2" />
 
 </root>
